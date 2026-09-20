@@ -1288,7 +1288,7 @@ const handleApproveRecon = (id: string, notes: string) => {
             <div className="space-y-6">
               <div className="flex justify-between items-center bg-white p-4 rounded-xl shadow-xs border border-slate-200">
                 <div>
-                  <h2 className="text-lg font-bold text-slate-900">Schedules Dispatch</h2>
+                  <h2 className="text-lg font-bold text-slate-900">Schedules Dispatch luqmaan</h2>
                   <p className="text-xs text-slate-500">Visual calendar of bookings and assignments compiled for {region}.</p>
                 </div>
                 <button
